@@ -82,7 +82,3 @@ Resolved Target IP: 192.168.1.10, Port: 1978
 ## Disclaimer
 
 This script is intended for educational purposes and to demonstrate the vulnerability in the WiFi Mouse software. Use it responsibly and only on systems where you have explicit permission to perform penetration testing.
-
----
-
-Once you log in to ChatGPT, I can help you generate and manage this content more efficiently, including converting it into a proper `README.md` file for you.
